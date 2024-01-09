@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ryan
 - 👀 I’m interested in web and software development
-- 🌱 I’m currently learning Javascript in a course with Code Nation
+- 🌱 I’m currently learning about DOM in a course with Code Nation
 - 📫 You can contact me here oo42ra6u6@mozmail.com
 
 <!---
